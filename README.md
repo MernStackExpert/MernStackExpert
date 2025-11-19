@@ -28,15 +28,6 @@ I'm a **MERN Stack Developer** specializing in building full-stack applications 
 
 > 💡 **My Coding Motto:** The best way to predict the future is to create it, one commit at a time. I absolutely love programming and solving complex challenges! 😅
 
----
-
-## 🐍 GitHub Snake Animation
-
-<div align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/assets/snake.gif" alt="Snake Animation" width="90%"/>
-</div>
-
----
 
 ## 🌐 Professional & Social Links
 
