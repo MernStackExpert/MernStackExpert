@@ -31,10 +31,8 @@ I'm a **MERN Stack Developer** specializing in building full-stack applications 
 
 ## 🌐 Professional & Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin_profile) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5A0EF8?style=flat&logo=dribbble&logoColor=white)](https://yourportfolio.com)
 
 ---
 
