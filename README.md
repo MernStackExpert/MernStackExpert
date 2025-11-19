@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_CUSTOM_HEADER_BANNER_URL_HERE" alt="Md Nirob Sarkar Professional Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/refs/heads/main/banner_github.png" width="100%"/>
 </div>
 
 ---
