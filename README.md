@@ -1,6 +1,10 @@
-
 <div align="center">
-  <!-- 💻 Animated Header: Typing Effect -->
+  <!-- 🖼️ CUSTOM BANNER: REPLACE THIS PLACEHOLDER URL WITH YOUR OWN IMAGE LINK -->
+  <img src="https://placehold.co/1000x200/222C3D/79daff?text=FULL+STACK+DEVELOPER+%7C+NEXT.JS+EXPERT" alt="MernStackExpert Custom Banner" style="width:100%; max-width:1000px; height:auto; border-radius:10px;">
+</div>
+<br>
+<div align="center">
+  <!-- 💻 ANIMATED HEADER: TYPING EFFECT -->
   <a href="https://github.com/MernStackExpert">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hi+there!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
@@ -13,7 +17,7 @@
 | Section | Details |
 | :--- | :--- |
 | **🌱 Currently Learning** | Diving deep into **Next.JS** (Server Components, Routing & API) |
-| **👯 Looking to Collaborate** | Actively looking for **Web Development Projects** (MERN/Next.js stack). Let's build something scalable! |
+| **👯 Looking to Collaborate** | Actively seeking **Web Development Projects** (MERN/Next.js stack). Let's build scalable solutions! |
 | **🤔 Seeking Help/Discussion** | Always open to discussing and helping with **Web Development** challenges. |
 | **💬 Ask Me About** | **MERN Stack, Next.js, JavaScript, and database design!** |
 | **📫 Contact Me** | 📩 **Email: mdnirob30k@gmail.com** |
@@ -32,7 +36,14 @@
 
 ## 🌐 Socials & Connect:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
+<p align="center">
+  <!-- FIX: Added all socials into a single p align for better grouping and added GitHub icon back -->
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
+  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
+  <!-- Reminder: Add your LinkedIn Username -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
+</p>
 
 ---
 
@@ -56,19 +67,19 @@
 
 ---
 
-# 📊 GitHub Activity & Analytics (Custom Design)
+# 📊 GitHub Activity & Analytics (Dynamic)
 
-### 📈 Your Custom GitHub Stats Card
-> **NOTE:** Replace the placeholder URL below with the **actual raw image/SVG link** for your custom "GitHub Stats & Analytics" card (like the one you showed in the screenshot).
+### 📈 Dynamic Activity Graph
+> This graph updates automatically with your GitHub activity, showcasing your contribution patterns.
 <p align="center">
-  <img src="https://placehold.co/900x400/1e293b/79daff?text=Paste+Your+Custom+Stats+Card+URL+Here" alt="Custom GitHub Stats" />
+  <!-- Using the requested dynamic activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MernStackExpert&theme=tokyonight&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" alt="My GitHub Activity Graph" />
 </p>
 
 ### 🔥 Daily Contribution Streak
 <p align="center">
-  <!-- FIX: Using reliable streak stats service -->
+  <!-- FIX: Removed duplicate image link. Using reliable streak stats service -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://camo.githubusercontent.com/fd5e2aed7a1ceb60cbcc380ff161e3d751ea4e355753c844718a47f011ad5d20/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d64726979617a616b6f6e646f267468656d653d72656163742d6461726b26617265613d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d4d792532304769744875622532304163746976697479" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Achievements & Trophies
@@ -84,10 +95,10 @@
 
 ---
 
-### 🐍 Github Contribution Snake
-> **IMPORTANT:** The snake image is broken because it needs a **GitHub Action** to run in your repository.
+### 🐍 GitHub Snake Animation
+> **IMPORTANT:** The snake animation is broken because it needs a **GitHub Action** to run in your repository. Please set up the `github-contribution-grid-snake` action to generate this image daily.
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
@@ -105,13 +116,19 @@
   <img src="https://wakatime.com/badge/user/**YOUR_WAKATIME_USERNAME**/range/last_7_days.svg" alt="WakaTime Stats (7 Days)" />
 </div>
 
+### 💡 GitHub Profile Details Card
+<div align="center">
+  <!-- FIX: Replaced wrong link with the correct profile summary card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profileDetails?username=MernStackExpert&theme=react" alt="GitHub Profile Details" />
+</div>
+
 ---
 
 ## 💖 Support My Work
 
 <div align="center">
   <!-- FIX: Please replace 'YOUR_BUYME_A_COFFEE_USERNAME' with your actual profile link. -->
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YOUR_BUYME_A_COFFEE_USERNAME**) 
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YOUR_BUYME_A_COFFEE_USERNAME**) 
   [![Sponsor](https://img.shields.io/badge/Sponsor-F7931E?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/MernStackExpert)
 </div>
 
@@ -119,8 +136,7 @@
 
 ### 👁️ Profile Views
 <div align="center">
-  <!-- FIX: Visitor Count should now work consistently -->
-  <img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
+  <img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
 </div>
 
 ---
