@@ -1,31 +1,37 @@
 <div align="center">
   <a href="https://github.com/MernStackExpert">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hi+there!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me & Collaboration
 
-* 🌱 I’m currently diving deep into **Next.JS** (Next-Level React!)
-* 👯 I’m actively looking to collaborate on **Web Development Projects** (Especially MERN/Next.js stack)
-* 🤔 I’m always open to discussing and helping with **Web Development** challenges.
-* 💬 Ask me about **MERN Stack, Next.js, and JavaScript!**
-* 📫 How to reach me: 📩 **Email: mdnirob30k@gmail.com**
-* 😄 Pronouns: **He/Him**
+| Section | Details |
+| :--- | :--- |
+| **🌱 Currently Learning** | Diving deep into **Next.JS** (Server Components, Routing & API) |
+| **👯 Looking to Collaborate** | Actively looking for **Web Development Projects** (MERN/Next.js stack). Let's build something scalable! |
+| **🤔 Seeking Help/Discussion** | Always open to discussing and helping with **Web Development** challenges. |
+| **💬 Ask Me About** | **MERN Stack, Next.js, JavaScript, and database design!** |
+| **📫 Contact Me** | 📩 **Email: mdnirob30k@gmail.com** |
+| **😄 Pronouns** | **He/Him** |
 
 > 💡 **Fun Fact:** My secret weapon is `console.log()`—I add it everywhere just to feel safe and I absolutely Love Programming! 😅
 
 ---
 
-## 🌐 Socials & Contact:
+## 🎯 My Coding Motto
+> "The best way to predict the future is to create it, one commit at a time."
+
+---
+
+## 🌐 Socials & Connect:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername) ---
 
 # 💻 Tech Stack & Tools:
 
@@ -38,25 +44,24 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
 </p>
 
 ---
 
 # 📊 GitHub Activity & Stats:
 
-### 📈 General Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&title_color=79daff&icon_color=79daff" alt="GitHub Stats" />
 </p>
 <br/>
 
-### 🔥 Streak Stats
+### 🔥 Daily Contribution Streak
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
@@ -75,6 +80,14 @@
 </div>
 
 ---
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=MernStackExpert&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+
+### 🐍 My GitHub Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
+</div>
