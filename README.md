@@ -1,8 +1,4 @@
-<div align="center">
-  <!-- BANNER SECTION (MUST REPLACE URL BELOW) -->
-  <img src="https://placehold.co/1000x200/222C3D/79daff?text=MERN+Stack+%7C+Next.js+Developer+Banner" alt="MernStackExpert Custom Banner" style="width:100%; max-width:1000px; height:auto; border-radius:10px;">
-</div>
-<br>
+
 <div align="center">
   <!-- 💻 Animated Header: Typing Effect -->
   <a href="https://github.com/MernStackExpert">
@@ -36,13 +32,7 @@
 
 ## 🌐 Socials & Connect:
 
-<p align="center">
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
-  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-  <!-- Reminder: Add your LinkedIn Username -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
 
 ---
 
