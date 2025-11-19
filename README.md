@@ -113,7 +113,7 @@
 
 ### 💡 GitHub Skills & Profile Card (Unique)
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profileDetails?username=MernStackExpert&theme=react" alt="GitHub Profile Details" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Profile Details" />
 </div>
 
 ---
