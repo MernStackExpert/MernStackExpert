@@ -1,4 +1,5 @@
 <div align="center">
+  <!-- 💻 Animated Header: Typing Effect -->
   <a href="https://github.com/MernStackExpert">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hi+there!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
@@ -34,7 +35,8 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
   [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
+  <!-- FIX: Added proper link. Please replace 'YourLinkedInUsername' -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YourLinkedInUsername**)
 </p>
 
 ---
@@ -85,7 +87,7 @@
 ---
 
 ### 🐍 GitHub Snake Animation (Action Required)
-> **NOTE:** To see the snake animation, you **must set up the `github-contribution-grid-snake` GitHub Action** in your `MernStackExpert/MernStackExpert` repository. The image will only appear after the Action runs successfully.
+> **NOTE:** **Snake animation image is currently broken because the GitHub Action needs to be set up and run in your repository.** Please follow the instructions for the `github-contribution-grid-snake` action to generate the SVG file.
 <div align="center">
   <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
@@ -100,8 +102,9 @@
 </div>
 
 ### 💻 Latest Coding Activity (WakaTime)
+> **NOTE:** Please replace **`YourWakaTimeID`** with your actual WakaTime username below to fix the broken image.
 <div align="center">
-  <img src="https://wakatime.com/badge/user/YourWakaTimeID/range/last_7_days.svg" alt="WakaTime Stats (7 Days)" />
+  <img src="https://wakatime.com/badge/user/**YourWakaTimeID**/range/last_7_days.svg" alt="WakaTime Stats (7 Days)" />
 </div>
 
 ### 💡 GitHub Skills & Profile Card (Unique)
@@ -114,15 +117,22 @@
 ## 💖 Support My Work
 
 <div align="center">
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YourUsername) 
+  <!-- FIX: Proper link for Buy Me A Coffee -->
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YourUsername**) 
+  <!-- Please replace 'YourUsername' with your actual Buy Me A Coffee profile link -->
   [![Sponsor](https://img.shields.io/badge/Sponsor-F7931E?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/MernStackExpert)
 </div>
 
 ---
 
-### 👁️ Profile Views
 <div align="center">
+  <!-- WORKING VISITOR COUNTER -->
   <img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
 </div>
 
----
+### 👋 Have a Great Day!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/main/waving.gif" width="30px" alt="Waving Hand GIF" />
+  <!-- Use a custom GIF if you have one, or the one below (generic waving) -->
+  <img src="https://media.giphy.com/media/LmN8APbVzE6N84Y30S/giphy.gif" width="40px" alt="Waving Hand Animation" />
+</div>
