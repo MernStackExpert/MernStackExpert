@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- 💻 Animated Header: Typing Effect -->
-  <a href="https://github.com/MernStackExpert">
+  <!-- 💻 Animated Header: Typing Effect --><a href="https://github.com/MernStackExpert">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hi+there!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
 </div>
@@ -32,10 +31,10 @@
 ## 🌐 Socials & Connect:
 
 <p align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
+  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-  <!-- FIX: Added proper link. Please replace 'YourLinkedInUsername' -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YourLinkedInUsername**)
+  <!-- **FIX:** Make sure to replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn profile ID -->[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
 </p>
 
 ---
@@ -51,7 +50,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -69,8 +68,8 @@
 
 ### 🔥 Daily Contribution Streak
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- **FIX:** Changed to a more reliable streak stats service (herokuapp.com) as nirzak-streak-stats might be unstable --></p>
 
 ### 🏆 Achievements & Trophies
 <p align="center">
@@ -86,7 +85,9 @@
 ---
 
 ### 🐍 GitHub Snake Animation (Action Required)
-> **NOTE:** **Snake animation image is currently broken because the GitHub Action needs to be set up and run in your repository.** Please follow the instructions for the `github-contribution-grid-snake` action to generate the SVG file.
+> **IMPORTANT:** The snake animation requires a **GitHub Action** to be set up in your repository (`MernStackExpert/MernStackExpert`). The image will only appear here **after the Action has successfully run at least once** and generated the `github-contribution-grid-snake-dark.svg` file in your `output` branch/folder.
+>
+> **How to set it up:** Search for "GitHub Action Snake" on Google/GitHub, find the official repository (e.g., `Platane/snk`), and add the `.github/workflows/snake.yml` file to your repo.
 <div align="center">
   <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
@@ -101,9 +102,9 @@
 </div>
 
 ### 💻 Latest Coding Activity (WakaTime)
-> **NOTE:** Please replace **`YourWakaTimeID`** with your actual WakaTime username below to fix the broken image.
+> **IMPORTANT:** Please replace **`YOUR_WAKATIME_USERNAME`** with your actual WakaTime username below to fix the broken image. If you don't use WakaTime, you can remove this section.
 <div align="center">
-  <img src="https://wakatime.com/badge/user/**YourWakaTimeID**/range/last_7_days.svg" alt="WakaTime Stats (7 Days)" />
+  <img src="https://wakatime.com/badge/user/**YOUR_WAKATIME_USERNAME**/range/last_7_days.svg" alt="WakaTime Stats (7 Days)" />
 </div>
 
 ### 💡 GitHub Skills & Profile Card (Unique)
@@ -116,22 +117,20 @@
 ## 💖 Support My Work
 
 <div align="center">
-  <!-- FIX: Proper link for Buy Me A Coffee -->
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YourUsername**) 
-  <!-- Please replace 'YourUsername' with your actual Buy Me A Coffee profile link -->
+  <!-- **FIX:** Please replace 'YOUR_BUYME_A_COFFEE_USERNAME' with your actual profile link. -->[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YOUR_BUYME_A_COFFEE_USERNAME**) 
   [![Sponsor](https://img.shields.io/badge/Sponsor-F7931E?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/MernStackExpert)
 </div>
 
 ---
 
+### 👁️ Profile Views
 <div align="center">
-  <!-- WORKING VISITOR COUNTER -->
-  <img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
+  <!-- **FIX:** Visitor Count should now work consistently --><img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
 </div>
 
-### 👋 Have a Great Day!
+---
+
+### 👋 Thanks for Visiting!
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/main/waving.gif" width="30px" alt="Waving Hand GIF" />
-  <!-- Use a custom GIF if you have one, or the one below (generic waving) -->
   <img src="https://media.giphy.com/media/LmN8APbVzE6N84Y30S/giphy.gif" width="40px" alt="Waving Hand Animation" />
-</div>
+  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/main/waving.gif" width="30px" alt="Waving Hand GIF" /> <!-- Optional: If you have a custom waving GIF --></div>
