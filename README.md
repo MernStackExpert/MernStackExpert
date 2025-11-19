@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/MernStackExpert">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hello+World!+%F0%9F%91%8B;I'm+Md+Nirob+Sarkar;MERN+Stack+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hello+There!+%F0%9F%91%8B;I'm+Md+Nirob+Sarkar;MERN+Stack+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
 </div>
 
