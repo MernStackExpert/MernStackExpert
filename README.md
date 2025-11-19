@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://placehold.co/1000x200/222C3D/79daff?text=FULL+STACK+DEVELOPER+%7C+NEXT.JS+EXPERT" alt="MernStackExpert Custom Banner" style="width:100%; max-width:1000px; height:auto; border-radius:10px;">
-</div>
-<br>
-<div align="center">
   <a href="https://github.com/MernStackExpert">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hi+there!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
@@ -32,108 +28,23 @@
 
 ---
 
-## 🌐 Socials & Connect:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
 
-<p align="center">
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
-  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MernStackExpert&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MernStackExpert&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MernStackExpert&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 💻 Tech Stack & Tools:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI">
-  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MernStackExpert&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MernStackExpert&icon=1&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Activity & Analytics (Dynamic)
-
-### 📈 Dynamic Activity Graph
-> This graph updates automatically with your GitHub activity, showcasing your contribution patterns.
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MernStackExpert&theme=tokyonight&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" alt="My GitHub Activity Graph" />
-</p>
-
-### 🔥 Daily Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-### 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MernStackExpert&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-### 🥇 Top Languages & Contributions
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernStackExpert&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=MernStackExpert&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-### 🐍 GitHub Snake Animation (Now Dynamic!)
-> This SVG link now points to your generated, dynamic snake animation!
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-</div>
-
----
-
-## 🚀 Unique & Animated Footer Elements
-
-### ✨ Dynamic Quote Generator
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=79daff&backgroundColor=121011" alt="Inspirational Quote" />
-</div>
-
-### 💻 Latest Coding Activity (WakaTime)
-> **PLACEHOLDER:** Please replace **`YOUR_WAKATIME_USERNAME`** with your actual WakaTime username to fix the broken image.
-<div align="center">
-  <img src="https://wakatime.com/badge/user/**YOUR_WAKATIME_USERNAME**/range/last_7_days.svg" alt="WakaTime Stats (7 Days)" />
-</div>
-
-### 💡 GitHub Profile Details Card
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profileDetails?username=MernStackExpert&theme=react" alt="GitHub Profile Details" />
-</div>
-
----
-
-## 💖 Support My Work
-
-<div align="center">
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YOUR_BUYME_A_COFFEE_USERNAME**) 
-  [![Sponsor](https://img.shields.io/badge/Sponsor-F7931E?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/MernStackExpert)
-</div>
-
----
-
-### 👁️ Profile Views
-<div align="center">
-  <img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
-</div>
-
----
-
-### 👋 Thanks for Visiting!
-<div align="center">
-  <img src="https://media.giphy.com/media/LmN8APbVzE6N84Y30S/giphy.gif" width="40px" alt="Waving Hand Animation" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
