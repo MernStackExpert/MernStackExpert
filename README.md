@@ -78,6 +78,7 @@
 <p align="center">
   <!-- FIX: Using reliable streak stats service -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/fd5e2aed7a1ceb60cbcc380ff161e3d751ea4e355753c844718a47f011ad5d20/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d64726979617a616b6f6e646f267468656d653d72656163742d6461726b26617265613d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d4d792532304769744875622532304163746976697479" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Achievements & Trophies
@@ -93,10 +94,10 @@
 
 ---
 
-### 🐍 GitHub Snake Animation (Action Required)
+### 🐍 Github Contribution Snake
 > **IMPORTANT:** The snake image is broken because it needs a **GitHub Action** to run in your repository.
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
