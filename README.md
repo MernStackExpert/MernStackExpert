@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- 🖼️ CUSTOM BANNER: REPLACE THIS PLACEHOLDER URL WITH YOUR OWN IMAGE LINK -->
+  <!-- 🖼️ CUSTOM BANNER: APNAR NIJER BANNER LINK BOSHAN -->
   <img src="https://placehold.co/1000x200/222C3D/79daff?text=FULL+STACK+DEVELOPER+%7C+NEXT.JS+EXPERT" alt="MernStackExpert Custom Banner" style="width:100%; max-width:1000px; height:auto; border-radius:10px;">
 </div>
 <br>
@@ -37,11 +37,10 @@
 ## 🌐 Socials & Connect:
 
 <p align="center">
-  <!-- FIX: Added all socials into a single p align for better grouping and added GitHub icon back -->
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
-  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-  <!-- Reminder: Add your LinkedIn Username -->
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
+  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
+  <!-- YOUR LINKEDIN USERNAME BOSHAN -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
 </p>
 
@@ -72,13 +71,11 @@
 ### 📈 Dynamic Activity Graph
 > This graph updates automatically with your GitHub activity, showcasing your contribution patterns.
 <p align="center">
-  <!-- Using the requested dynamic activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MernStackExpert&theme=tokyonight&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" alt="My GitHub Activity Graph" />
 </p>
 
 ### 🔥 Daily Contribution Streak
 <p align="center">
-  <!-- FIX: Removed duplicate image link. Using reliable streak stats service -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
@@ -95,10 +92,14 @@
 
 ---
 
-### 🐍 GitHub Snake Animation
-> **IMPORTANT:** The snake animation is broken because it needs a **GitHub Action** to run in your repository. Please set up the `github-contribution-grid-snake` action to generate this image daily.
+### 🐍 GitHub Snake Animation (Action Required)
+> **⚠️ IMPORTANT:** Snake animation work korar jonno apnake **GitHub Action** set up korte hobe. Joto khon na Action chole, ekti temporary GIF dekhanor byabostha kora holo jate image bhanga na lage.
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <!-- Temporary visual solution (GIF) until Action is set up -->
+  <img src="https://github.com/MernStackExpert/MernStackExpert/raw/master/snake_demo.gif" alt="GitHub Snake Animation Demo" width="800" onerror="this.onerror=null; this.src='https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg';" />
+  
+  <!-- **ACTUAL LINK** - Eibar Action cholar por ei link-ti byabohar korben: -->
+  <!-- <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> -->
 </div>
 
 ---
@@ -118,8 +119,7 @@
 
 ### 💡 GitHub Profile Details Card
 <div align="center">
-  <!-- FIX: Replaced wrong link with the correct profile summary card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profileDetails?username=MernStackExpert&theme=react" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profileDetails?username=MernStackExpert&theme=react" alt="GitHub Profile Details" />
 </div>
 
 ---
@@ -127,8 +127,8 @@
 ## 💖 Support My Work
 
 <div align="center">
-  <!-- FIX: Please replace 'YOUR_BUYME_A_COFFEE_USERNAME' with your actual profile link. -->
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YOUR_BUYME_A_COFFEE_USERNAME**) 
+  <!-- YOUR BUY ME A COFFEE USERNAME BOSHAN -->
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/**YOUR_BUYME_A_COFFEE_USERNAME**) 
   [![Sponsor](https://img.shields.io/badge/Sponsor-F7931E?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/MernStackExpert)
 </div>
 
