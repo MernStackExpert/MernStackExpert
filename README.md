@@ -1,4 +1,9 @@
 <div align="center">
+  <!-- BANNER SECTION (MUST REPLACE URL BELOW) -->
+  <img src="https://placehold.co/1000x200/222C3D/79daff?text=MERN+Stack+%7C+Next.js+Developer+Banner" alt="MernStackExpert Custom Banner" style="width:100%; max-width:1000px; height:auto; border-radius:10px;">
+</div>
+<br>
+<div align="center">
   <!-- 💻 Animated Header: Typing Effect --><a href="https://github.com/MernStackExpert">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hi+there!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
@@ -21,7 +26,7 @@
 
 ---
 
-## 🎯 My Coding Motto (Unique Design)
+## 🎯 My Coding Motto
 <div align="center">
   <img src="https://img.shields.io/badge/Motto-The_best_way_to_predict_the_future_is_to_create_it,_one_commit_at_a_time.-5A0EF8?style=flat&logoColor=white" alt="Coding Motto">
 </div>
@@ -34,7 +39,6 @@
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
   [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-  <!-- **FIX:** Make sure to replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn profile ID -->[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/**YOUR_LINKEDIN_USERNAME**)
 </p>
 
 ---
