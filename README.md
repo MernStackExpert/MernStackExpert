@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/refs/heads/main/banner_github.png" alt="MernStackExpert Professional Banner" width="100%"/>
+</div>
+<div align="center">
   <a href="https://github.com/MernStackExpert">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79daff&width=480&lines=Hello+World!+%F0%9F%91%8B;I'm+MernStackExpert;Full+Stack+Web+Developer;Let's+Collaborate+on+Next.js!" alt="Typing SVG" />
   </a>
