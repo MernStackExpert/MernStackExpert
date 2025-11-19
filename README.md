@@ -21,17 +21,20 @@
 
 ---
 
-## 🎯 My Coding Motto
-> "The best way to predict the future is to create it, one commit at a time."
+## 🎯 My Coding Motto (Unique Design)
+<div align="center">
+  <img src="https://img.shields.io/badge/Motto-The_best_way_to_predict_the_future_is_to_create_it,_one_commit_at_a_time.-5A0EF8?style=flat&logoColor=white" alt="Coding Motto">
+</div>
 
 ---
 
 ## 🌐 Socials & Connect:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername) ---
+<p align="center">
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
+  [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MernStackExpert)
+---
 
 # 💻 Tech Stack & Tools:
 
@@ -59,19 +62,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&title_color=79daff&icon_color=79daff" alt="GitHub Stats" />
 </p>
-<br/>
 
 ### 🔥 Daily Contribution Streak
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=MernStackExpert&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
-<br/>
 
-### 🏆 Achievements
+### 🏆 Achievements & Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MernStackExpert&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-<br/>
 
 ### 🥇 Top Languages & Contributions
 <div align="center">
@@ -81,13 +81,27 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+### 🐍 GitHub Snake Animation (Action Required)
+> **NOTE:** To see the snake animation, you must set up the `github-contribution-grid-snake` GitHub Action in your `MernStackExpert/MernStackExpert` repository. This link works only after the Action successfully runs once.
 <div align="center">
   <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
 
+## 🚀 Unique & Animated Footer Elements
+
+### 💻 Currently Working On (WakaTime Alternative)
+<div align="center">
+  <img src="https://wakatime.com/badge/user/YourWakaTimeID/range/last_7_days.svg" alt="WakaTime Stats (7 Days)" />
+</div>
+
+### ✨ Dynamic Quote Generator (If you like changing quotes)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=79daff&backgroundColor=121011" alt="Inspirational Quote" />
+</div>
+
+### 👁️ Profile Views
 <div align="center">
   <img src="https://hits.seeyou.space/hits?count_bg=%23121011&title_bg=%2379daff&icon=github.svg&title=PROFILE+VIEWS&edge_flat=true&color=FFFFFF&show_count=true" alt="Visitor Count">
 </div>
