@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/refs/heads/main/banner_github.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MernStackExpert/MernStackExpert/refs/heads/main/Minimal%20Design.png" width="100%"/>
 </div>
 
 ---
