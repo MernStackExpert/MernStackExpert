@@ -49,22 +49,18 @@ I'm a **MERN Stack Developer** specializing in building full-stack applications 
 
 ---
 
-## 📊 GitHub Stats & Contributions
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mernstackexpert&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mernstackexpert&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mernstackexpert&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mernstackexpert&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MernStackExpert&theme=radical&hide_border=false&layout=compact)
-
-### Streaks & Trophies
-| Streak Stats | Trophies |
-| :--- | :--- |
-| ![Streak Stats](https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=radical&hide_border=false&include_all_commits=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=MernStackExpert&theme=radical&no-frame=false&no-bg=false) |
-
-### Top Contributed Repo
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=MernStackExpert&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mernstackexpert&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mernstackexpert&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=MernStackExpert&icon=1&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
