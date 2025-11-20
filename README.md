@@ -19,20 +19,21 @@ I'm a **MERN Stack Developer** specializing in building full-stack applications 
 | Section | Details |
 | :--- | :--- |
 | **✨ Designation** | **MERN Stack Developer** |
-| **🌱 Current Activity** | Actively exploring **Next.JS 14** (App Router, Server Components). |
-| **🔨 Working On** | Building a complex **Tourism Website** with advanced filtering and SSR. |
-| **👯 Looking to Collaborate** | Seeking challenging **Web Development Projects** (MERN/Next.js stack). |
-| **💬 Ask Me About** | **MERN Stack, Next.js, JavaScript, Database Design, and API optimization!** |
+| **🌱 Current Activity** | Actively exploring **Next.JS 14** (App Router, Server Components) |
+| **🔨 Working On** | Building a complex **Tourism Website** with advanced filtering and SSR |
+| **👯 Looking to Collaborate** | Seeking challenging **Web Development Projects** (MERN/Next.js stack) |
+| **💬 Ask Me About** | **MERN Stack, Next.js, JavaScript, Database Design, API optimization** |
 | **📫 Contact Me** | 📩 **Email: mdnirob30k@gmail.com** |
 | **😄 Pronouns** | He/Him |
 
 > 💡 **My Coding Motto:** The best way to predict the future is to create it, one commit at a time. I absolutely love programming and solving complex challenges! 😅
 
+---
 
 ## 🌐 Social Links
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MernStackExpert)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdnirob30k@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mdnirobsarkar/)
 
 ---
@@ -51,18 +52,19 @@ I'm a **MERN Stack Developer** specializing in building full-stack applications 
 ## 📊 GitHub Stats & Contributions
 
 ### Statistics
-![](https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MernStackExpert&theme=radical&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MernStackExpert&theme=radical&hide_border=false&layout=compact)
 
-### Streaks and Trophies
+### Streaks & Trophies
 | Streak Stats | Trophies |
 | :--- | :--- |
-| ![](https://nirzak-streak-stats.vercel.app/?user=MernStackExpert&theme=radical&hide_border=false) | ![](https://github-profile-trophy.vercel.app/?username=MernStackExpert&theme=radical&no-frame=false&no-bg=false) |
+| ![Streak Stats](https://github-readme-stats.vercel.app/api?username=MernStackExpert&theme=radical&hide_border=false&include_all_commits=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=MernStackExpert&theme=radical&no-frame=false&no-bg=false) |
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MernStackExpert&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=MernStackExpert&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MernStackExpert&icon=1&color=0)](https://visitcount.itsvg.in)
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=MernStackExpert&icon=1&color=0)](https://visitcount.itsvg.in)
